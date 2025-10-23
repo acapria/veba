@@ -124,7 +124,7 @@ Now it's time to analyze the data (recommend using compositional data analysis (
 
 If you have a `pickle` format, then you probably know what to do already.
 
-If you have a `biom` format look into the [QIIME2 ecosystem](https://docs.qiime2.org/2023.2/tutorials/) or [BIRDMAn](https://birdman.readthedocs.io/en/stable/?badge=stable) for CoDA-aware bayesian differential abundance. 
+If you have a `biom` format look into the [QIIME2 ecosystem](https://amplicon-docs.qiime2.org/en/latest/) or [BIRDMAn](https://birdman.readthedocs.io/en/stable/?badge=stable) for CoDA-aware bayesian differential abundance. 
 
 If you have an `anndata` format, look into the [Scanpy ecosystem](https://scanpy.readthedocs.io/en/stable/tutorials.html).  Though Scanpy does not nativly support CoDA-aware methodologies, they are easy to adapt.
 
